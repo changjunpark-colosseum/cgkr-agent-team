@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+.omx/
+*.log
+transcript.md

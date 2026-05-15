@@ -1,0 +1,41 @@
+{
+  "name": "wms-refactor-lab",
+  "version": "0.1.0",
+  "description": "tmux-backed multi-agent Codex workflow for WMS refactoring.",
+  "author": {
+    "name": "changjun",
+    "email": "",
+    "url": ""
+  },
+  "homepage": "https://github.com/changjun/wms-refactor-lab",
+  "repository": "https://github.com/changjun/wms-refactor-lab",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "tmux",
+    "multi-agent",
+    "wms",
+    "refactoring"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "WMS Refactor Lab",
+    "shortDescription": "Run planner, backend, FE, and QA Codex agents in tmux panes.",
+    "longDescription": "WMS Refactor Lab creates independent Codex panes inside the current tmux session and coordinates planner, plan reviewer, backend contract reviewer, frontend implementer, and QA reviewer agents through serial or barrier-based parallel refactor loops.",
+    "developerName": "changjun",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/changjun/wms-refactor-lab",
+    "privacyPolicyURL": "",
+    "termsOfServiceURL": "",
+    "defaultPrompt": [
+      "Start WMS refactor agents in tmux.",
+      "Run a parallel WMS refactor loop.",
+      "Check WMS refactor lab status."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "WMS Refactor Lab"
+  short_description: "Launch tmux broker/TUI refactor lab"
+  default_prompt: "Use $wms-refactor-lab to launch the tmux broker/TUI workspace for WMS refactoring."
