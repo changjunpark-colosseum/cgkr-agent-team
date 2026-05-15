@@ -21,11 +21,16 @@ It creates independent Codex panes for:
 
 ```text
 .codex-plugin/plugin.json
+docs/
 skills/wms-refactor-lab/
   SKILL.md
   agents/
   scripts/
 ```
+
+## Docs
+
+- [Team Command Router](docs/team-command-router.md): proposed OMX-like command surface for reusable team presets such as `team:qa`, `team:refactor`, and `team:domain`.
 
 ## Usage
 
