@@ -7,8 +7,8 @@
     "email": "",
     "url": ""
   },
-  "homepage": "https://github.com/changjun/wms-refactor-lab",
-  "repository": "https://github.com/changjun/wms-refactor-lab",
+  "homepage": "https://github.com/changjunpark-colosseum/cgkr-agent-team",
+  "repository": "https://github.com/changjunpark-colosseum/cgkr-agent-team",
   "license": "MIT",
   "keywords": [
     "codex",
@@ -28,7 +28,7 @@
       "Interactive",
       "Write"
     ],
-    "websiteURL": "https://github.com/changjun/wms-refactor-lab",
+    "websiteURL": "https://github.com/changjunpark-colosseum/cgkr-agent-team",
     "privacyPolicyURL": "",
     "termsOfServiceURL": "",
     "defaultPrompt": [
